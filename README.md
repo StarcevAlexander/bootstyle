@@ -4,6 +4,8 @@ Bootstrap 5 UI components for Rust: typed builders that render styled, framework
 
 No JS runtime, no framework lock-in. Works with axum, actix-web, rocket, static site generators, or plain string output. Forms, tables and navigation are real HTML elements and stay interactive without JavaScript.
 
+**Siblings in the family** — same builder API, different design systems: [matui](https://crates.io/crates/matui) (Material Design 3) and [taigaui](https://crates.io/crates/taigaui) (Taiga UI).
+
 ![bootstyle gallery](https://raw.githubusercontent.com/StarcevAlexander/bootstyle/main/docs/screenshots/gallery-hero.png)
 
 *(Full-page gallery: [gallery-full.png](https://raw.githubusercontent.com/StarcevAlexander/bootstyle/main/docs/screenshots/gallery-full.png))*
